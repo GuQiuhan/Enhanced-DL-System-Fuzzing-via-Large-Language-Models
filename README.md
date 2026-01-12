@@ -1,4 +1,4 @@
-# LLM-based DSL Generation for Neuron Specification
+# Enhanced DL System Fuzzing via Large Language Models
 
 > A framework for step-by-step DSL generation using Large Language Models (LLMs).
 
